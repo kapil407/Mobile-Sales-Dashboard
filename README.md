@@ -14,7 +14,7 @@ Sales trends over time
 
 Top-performing brands and categories
 
-📊 Key Features
+📊 Key Features :
 
 📈 Sales KPIs: Total sales, quantity sold, profit margins, and average selling price.
 
@@ -29,7 +29,7 @@ Top-performing brands and categories
 💡 Interactive Design: Fully responsive visuals suitable for desktop and Power BI mobile app.
 
 
-Tools & Technologies
+Tools & Technologies :
 
 Power BI Desktop
 
